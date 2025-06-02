@@ -151,3 +151,19 @@ Key Component Interactions:
 4. Database operations execute through connection pool
 5. Response returns with appropriate status and data
 6. Error handling occurs at each step with appropriate responses
+
+## Result
+
+### Register Testing
+![image](https://github.com/user-attachments/assets/f61840b4-ba3f-45d1-8137-f42cea668436)
+
+### Login Testing
+![image](https://github.com/user-attachments/assets/cef33767-71ec-4282-b6cf-9770f197cba0)
+
+### GET-Students Testing
+![image](https://github.com/user-attachments/assets/29aa2ff2-5a95-41c2-a2c4-2d139108621b)
+
+### POST-Student Testing
+![image](https://github.com/user-attachments/assets/6550dd29-9d8d-42c1-87ae-76d075348cad)
+
+
